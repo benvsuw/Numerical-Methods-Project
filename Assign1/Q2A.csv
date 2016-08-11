@@ -1,0 +1,10 @@
+Loop One,Loop Two,Value,Element Type
+1,,0.5,resistor
+1,2,0.0000002,capacitor
+2,3,4,resistor
+3,5,0.02,inductor
+3,4,0.0000003,capacitor
+3,4,6,resistor
+4,,8,resistor
+5,,0.0000001,capacitor
+1,,sin(t),voltage source
